@@ -4428,7 +4428,7 @@ Date,Event,Weight class,Fighter1,Result,Fighter2,Method,Round,Time,Note,Time (se
 2017-12-01,The Ultimate Fighter: A New World Champion Finale,Women's Flyweight,Lauren Murphy,def.,Barb Honchak,"Decision (split) (29–28, 28–29, 29–28)",3.0,5:00,-,300
 2017-12-01,The Ultimate Fighter: A New World Champion Finale,Women's Flyweight,Montana De La Rosa,def.,Christina Marks,Submission (armbar),1.0,2:00,-,120
 2017-12-01,The Ultimate Fighter: A New World Champion Finale,Middleweight,Ryan Janes,def.,Andrew Sanchez,TKO (punches),3.0,0:59,-,59
-2017-12-01,The Ultimate Fighter: A New World Champion Finale,Woman's Catchweight (130 lbs),Rachael Ostovich,def.,Karine Gevorgyan,Submission (armbar),1.0,1:40,-,100
+2017-12-01,The Ultimate Fighter: A New World Champion Finale,Women's Catchweight (130 lbs),Rachael Ostovich,def.,Karine Gevorgyan,Submission (armbar),1.0,1:40,-,100
 2017-12-01,The Ultimate Fighter: A New World Champion Finale,Women's Flyweight,Shana Dobson,def.,Ariel Beck,TKO (punches),2.0,2:53,-,173
 2017-12-01,The Ultimate Fighter: A New World Champion Finale,Women's Flyweight,Gillian Robertson,def.,Emily Whitmire,Submission (armbar),1.0,2:12,-,132
 2017-12-01,The Ultimate Fighter: A New World Champion Finale,Bantamweight,Brett Johns,def.,Joe Soto,Submission (calf slicer),1.0,0:30,-,30
@@ -5006,7 +5006,7 @@ Date,Event,Weight class,Fighter1,Result,Fighter2,Method,Round,Time,Note,Time (se
 2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Light Heavyweight,Thiago Santos,def.,Jan Błachowicz,TKO (punches),3.0,0:39,-,39
 2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Heavyweight,Stefan Struve,def.,Marcos Rogério de Lima,Submission (arm-triangle choke),2.0,2:21,-,141
 2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Light Heavyweight,Michał Oleksiejczuk,def.,Gian Villante,TKO (body punch),1.0,1:34,-,94
-2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Women’s Flyweight,Liz Carmouche,def.,Lucie Pudilová,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,5:00,-,300
+2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Women's Flyweight,Liz Carmouche,def.,Lucie Pudilová,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,5:00,-,300
 2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Catchweight (209 lbs),Magomed Ankalaev,def.,Klidson Abreu,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,5:00,-,300
 2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Catchweight (157 lbs),Carlos Diego Ferreira,def.,Rustam Khabilov,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,5:00,-,300
 2019-02-23,UFC Fight Night: Błachowicz vs. Santos,Featherweight,Chris Fishgold,def.,Daniel Teymur,Submission (rear-naked choke),2.0,1:10,-,70
@@ -5352,7 +5352,7 @@ Date,Event,Weight class,Fighter1,Result,Fighter2,Method,Round,Time,Note,Time (se
 2019-10-05,UFC 243: Whittaker vs. Adesanya,Heavyweight,Sergey Spivak,def.,Tai Tuivasa,Technical Submission (arm-triangle choke),2.0,3:14,-,194
 2019-10-05,UFC 243: Whittaker vs. Adesanya,Welterweight,Callan Potter,def.,Maki Pitolo,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,5:00,-,300
 2019-10-05,UFC 243: Whittaker vs. Adesanya,Lightweight,Brad Riddell,def.,Jamie Mullarkey,"Decision (unanimous) (29–27, 30–26, 30–26)",3.0,5:00,-,300
-2019-10-05,UFC 243: Whittaker vs. Adesanya,Women’s Featherweight,Megan Anderson,def.,Zarah Fairn dos Santos,Submission (triangle choke),1.0,3:57,-,237
+2019-10-05,UFC 243: Whittaker vs. Adesanya,Women's Featherweight,Megan Anderson,def.,Zarah Fairn dos Santos,Submission (triangle choke),1.0,3:57,-,237
 2019-10-05,UFC 243: Whittaker vs. Adesanya,Catchweight (128 lbs),Ji Yeon Kim,def.,Nadia Kassem,TKO (body punches),2.0,4:59,[b],299
 2019-10-05,UFC 243: Whittaker vs. Adesanya,Catchweight (137 lbs),Khalid Taha,def.,Bruno Gustavo da Silva,Submission (arm-triangle choke),3.0,3:00,[c],180
 2019-10-05,UFC 243: Whittaker vs. Adesanya,Welterweight,Jake Matthews,def.,Rostem Akman,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,5:00,-,300
@@ -5466,7 +5466,7 @@ Date,Event,Weight class,Fighter1,Result,Fighter2,Method,Round,Time,Note,Time (se
 2019-12-21,UFC Fight Night: Edgar vs. The Korean Zombie,Lightweight,Omar Morales,def.,Dong Hyun Ma,"Decision (unanimous) (30–27, 30–26, 29–28)",3.0,5:00,-,300
 2019-12-21,UFC Fight Night: Edgar vs. The Korean Zombie,Flyweight,Alexandre Pantoja,def.,Matt Schnell,KO (punches),1.0,4:17,-,257
 2019-12-21,UFC Fight Night: Edgar vs. The Korean Zombie,Bantamweight,Raoni Barcelos,def.,Said Nurmagomedov,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,5:00,-,300
-2019-12-21,UFC Fight Night: Edgar vs. The Korean Zombie,Womens's Strawweight,Amanda Lemos,def.,Miranda Granger,Technical Submission (rear-naked choke),1.0,3:43,-,223
+2019-12-21,UFC Fight Night: Edgar vs. The Korean Zombie,Women's Strawweight,Amanda Lemos,def.,Miranda Granger,Technical Submission (rear-naked choke),1.0,3:43,-,223
 2019-12-21,UFC Fight Night: Edgar vs. The Korean Zombie,Bantamweight,Heili Alateng,def.,Ryan Benoit,"Decision (split) (28–29, 29–28, 29–28)",3.0,5:00,-,300
 2019-12-21,UFC Fight Night: Edgar vs. The Korean Zombie,Heavyweight,Ciryl Gane,def.,Tanner Boser,"Decision (unanimous) (30–26, 30–26, 30–26)",3.0,5:00,-,300
 2020-01-18,UFC 246: McGregor vs. Cowboy,Welterweight,Conor McGregor,def.,Donald Cerrone,TKO (head kick and punches),1.0,0:40,-,40
@@ -5493,7 +5493,7 @@ Date,Event,Weight class,Fighter1,Result,Fighter2,Method,Round,Time,Note,Time (se
 2020-01-25,UFC Fight Night: Blaydes vs. dos Santos,Bantamweight,Brett Johns,def.,Tony Gravely,Submission (rear-naked choke),3.0,2:53,-,173
 2020-01-25,UFC Fight Night: Blaydes vs. dos Santos,Featherweight,Herbert Burns,def.,Nate Landwehr,KO (knee),1.0,2:43,-,163
 2020-02-08,UFC 247: Jones vs. Reyes,Light Heavyweight,Jon Jones (c),def.,Dominick Reyes,"Decision (unanimous) (48–47, 48–47, 49–46)",5.0,5:00,[a],300
-2020-02-08,UFC 247: Jones vs. Reyes,Women’s Flyweight,Valentina Shevchenko (c),def.,Katlyn Chookagian,TKO (elbows and punches),3.0,1:03,[b],63
+2020-02-08,UFC 247: Jones vs. Reyes,Women's Flyweight,Valentina Shevchenko (c),def.,Katlyn Chookagian,TKO (elbows and punches),3.0,1:03,[b],63
 2020-02-08,UFC 247: Jones vs. Reyes,Heavyweight,Justin Tafa,def.,Juan Adams,TKO (punches),1.0,1:59,-,119
 2020-02-08,UFC 247: Jones vs. Reyes,Featherweight,Dan Ige,def.,Mirsad Bektić,"Decision (split) (28–29, 29–28, 29–28)",3.0,5:00,-,300
 2020-02-08,UFC 247: Jones vs. Reyes,Heavyweight,Derrick Lewis,def.,Ilir Latifi,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,5:00,-,300
