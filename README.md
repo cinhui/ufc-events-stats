@@ -1,6 +1,10 @@
 # ufc-events-stats
 
-## Data folder contains:
+## data_latest folder contains:
+
+- Match data for UFC events to date
+
+## data folder contains:
 
 list_of_UFC_past_events.csv
 - Last visited 4/27/2020
