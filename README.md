@@ -2,7 +2,11 @@
 
 ## data_latest folder contains:
 
-- Match data for UFC events to date
+- Match data for UFC events to date (retrieved from wikipedia)
+
+## data_ufcstats folder contains:
+
+- Match data for UFC events (retrieved from ufcstats.com)
 
 ## data folder contains:
 
