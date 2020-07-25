@@ -1,5 +1,8 @@
 # ufc-events-stats
 
+## Presentation slides: Exploring Patterns and Trends in MMA
+https://docs.google.com/presentation/d/1dMMkKym2TzdDUCjDUC2h7wyzqRwndH9Y4gVZPLzibn4/edit?usp=sharing
+
 ## data_latest folder contains:
 
 - Match data for UFC events to date (retrieved from wikipedia)
